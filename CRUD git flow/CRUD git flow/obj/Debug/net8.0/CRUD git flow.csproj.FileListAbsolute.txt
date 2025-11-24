@@ -1,0 +1,15 @@
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\bin\Debug\net8.0\CRUD git flow.exe
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\bin\Debug\net8.0\CRUD git flow.deps.json
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\bin\Debug\net8.0\CRUD git flow.runtimeconfig.json
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\bin\Debug\net8.0\CRUD git flow.dll
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\bin\Debug\net8.0\CRUD git flow.pdb
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\obj\Debug\net8.0\CRUD git flow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\obj\Debug\net8.0\CRUD git flow.AssemblyInfoInputs.cache
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\obj\Debug\net8.0\CRUD git flow.AssemblyInfo.cs
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\obj\Debug\net8.0\CRUD git flow.csproj.CoreCompileInputs.cache
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\obj\Debug\net8.0\CRUD git flow.sourcelink.json
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\obj\Debug\net8.0\CRUD git flow.dll
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\obj\Debug\net8.0\refint\CRUD git flow.dll
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\obj\Debug\net8.0\CRUD git flow.pdb
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\obj\Debug\net8.0\CRUD git flow.genruntimeconfig.cache
+C:\Programacion Itla\Git-Flow-CRUD\CRUD git flow\CRUD git flow\obj\Debug\net8.0\ref\CRUD git flow.dll
